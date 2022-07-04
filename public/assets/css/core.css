@@ -1,0 +1,314 @@
+.card .card-body .row .col-md-6 .count-number .compare .sub-percent .sub-number .icon {
+  left: 34%;
+}
+.card .card-body .row .col-md-12 .count-number .compare .sub-compare {
+  right: 31%;
+}
+.card .card-body .row .col-md-12 .count-number .compare .sub-percent {
+  left: 40%;
+}
+.card .card-body .row .col-md-12 .count-number .compare .sub-percent .sub-number .icon {
+  left: 43%;
+}
+.card .card-body .row .add-margin {
+  margin-top: 40px;
+}
+.card .card-body .row .count-title {
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+.card .card-body .row .count-title span {
+  width: 100%;
+  display: block;
+}
+.card .card-body .row .count-number {
+  font-size: 46px;
+}
+.card .card-body .row .count-number .compare {
+  font-size: 12px;
+  color: #838383;
+  margin-top: 13px;
+}
+.card .card-body .row .count-number .compare .sub-compare {
+  position: relative;
+  right: 22%;
+  padding-right: 22%;
+  top: 3%;
+}
+.card .card-body .row .count-number .compare .sub-compare .sub-number {
+  display: block;
+  font-size: 17px;
+}
+.card .card-body .row .count-number .compare .sub-percent {
+  position: relative;
+  left: 30%;
+}
+.card .card-body .row .count-number .compare .sub-percent .sub-number {
+  width: 100%;
+  display: block;
+  font-size: 17px;
+}
+.card .card-body .row .count-number .compare .sub-percent .sub-number.red {
+  color: #e54d42;
+}
+.card .card-body .row .count-number .compare .sub-percent .sub-number.green {
+  color: #00c18d;
+}
+.card .card-body .row .count-number .compare .sub-percent .sub-number .icon {
+  float: left;
+  position: absolute;
+  font-size: 23px;
+  left: 24%;
+  top: -3px;
+}
+
+.fade.animation.show {
+  opacity: 1 !important;
+}
+
+.hide {
+  display: none;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.filter-src {
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+.filter-src select {
+  border: 0px;
+  outline: 0px;
+}
+
+.bread-static {
+  position: relative;
+  top: 90px;
+  left: 25px;
+}
+.bread-static .btn-back {
+  height: 30px;
+  padding: 5px 20px 5px 30px;
+  color: #fff;
+  background: #7dc7a9;
+  border-radius: 5px;
+}
+.bread-static .btn-back:hover {
+  color: #fff;
+}
+.bread-static .btn-back i {
+  color: #fff !important;
+  position: absolute;
+  margin: 0px 0px 0px -20px;
+}
+.bread-static .header-title h3,
+.bread-static .header-title h4,
+.bread-static .header-title .page-title-right,
+.bread-static .header-title .page-title-right li a,
+.bread-static .header-title .page-title-right,
+.bread-static .header-title .breadcrumb-item::before {
+  color: #000 !important;
+}
+.bread-static .header-title {
+  padding: 20px 50px 20px 12px;
+  margin: 0px 50px 0px 0px;
+  background: #fff;
+  border-bottom: 1px solid;
+}
+.bread-static .header-title .header-nav {
+  color: #000;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.bread-static .header-title .header-nav a {
+  color: #000 !important;
+}
+.bread-static .header-title .header-nav .header-word {
+  font-weight: 700;
+  border-right: 1px solid;
+}
+
+.center-line h5 {
+  position: relative;
+  top: 5px;
+}
+.center-line hr {
+  position: relative;
+  top: -2px;
+  left: -73px;
+  width: 107%;
+}
+.center-line hr.red {
+  border-top: 5px solid #E53F07;
+}
+.center-line hr.green {
+  border-top: 5px solid #A7D585;
+}
+.center-line hr.orange {
+  border-top: 5px solid #F4A400;
+}
+
+.margin-left-15 {
+  margin-left: 15px;
+}
+
+.card.no-bg {
+  background: transparent;
+  box-shadow: none;
+}
+.card .wrapper-search {
+  left: 14px;
+  margin-bottom: 10px;
+}
+.card .wrapper-search input {
+  margin-left: 5px;
+}
+.card .wrapper-search select {
+  margin-left: 5px !important;
+}
+.card .wrapper-search .input-group-btn {
+  margin-left: 10px;
+}
+.card .wrapper-search .input-group-btn .btn {
+  font-size: 0.8rem;
+}
+.card .wrapper-search .search-panel ul.dropdown-menu li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #CCC;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.card .wrapper-search .search-panel ul.dropdown-menu li:last-child {
+  border-bottom: 0;
+}
+.card .box-alert {
+  padding-bottom: 10px;
+}
+.card .bg-soft-red {
+  background-color: #FCDAD1;
+}
+.card .text-red {
+  color: #E53F07;
+}
+.card .bg-red {
+  background-color: #E53F07;
+}
+.card .bg-soft-orange {
+  background-color: #FFE4AF;
+}
+.card .text-orange {
+  color: #F4A400;
+}
+.card .bg-orange {
+  background-color: #F4A400;
+}
+.card .bg-soft-green {
+  background-color: #D7FEBD;
+}
+.card .text-green {
+  color: #A7D585;
+}
+.card .bg-green {
+  background-color: #A7D585;
+}
+.card .line-box-alert {
+  height: 8px;
+}
+.card .font-100 {
+  font-size: 100px;
+}
+.card .font-16 {
+  font-size: 16px;
+}
+.card .font-size-36 {
+  font-size: 36px;
+}
+.card .font-bold {
+  font-weight: bold;
+}
+.card .width-200 {
+  width: 200px;
+}
+.card .width-250 {
+  width: 250px;
+}
+.card .width-300 {
+  width: 300px;
+}
+.card .dropdown.small.line::after {
+  content: "";
+  position: relative;
+  top: -18px;
+  flex: 1 1 auto;
+  height: 0;
+  border-top: 2px solid #dde4eb;
+  display: block;
+}
+.card .dropdown.small button {
+  font-size: 10px;
+}
+.card .card-body {
+  font-family: gdcustomfont, avenir, "Helvetica Neue", arial, sans-serif;
+}
+.card .card-body .text-truncate a i {
+  position: relative;
+  top: 4px;
+  font-size: 18px;
+}
+.card .card-body .form-search input.form-control {
+  height: 26px;
+}
+.card .card-body.line {
+  display: flex;
+}
+.card .card-body.line::after {
+  content: "";
+  position: relative;
+  top: 10px;
+  flex: 1 1 auto;
+  height: 0;
+  border-top: 1px solid #dde4eb;
+  display: block;
+}
+.card .card-body .col-md-4,
+.card .card-body .col-md-3,
+.card .card-body .col-md-5,
+.card .card-body .col-md-6,
+.card .card-body .col-md-12 {
+  margin-bottom: 60px;
+}
+.card .card-body .border-carding {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 3px;
+  max-height: 260px;
+}
+.card .card-body .line-dot {
+  border-left: 2px dotted #799579;
+  height: 59%;
+  position: relative;
+  top: -39px;
+  display: inline-block;
+  left: 51%;
+}
+.card .card-body .card-title {
+  float: left;
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  padding-right: 20px;
+}
+.card .table td.dtfc-fixed-right {
+  background: #fff;
+}
+.card .table th {
+  background: #D9D9D9;
+}
+.card .margin-bottom-15 {
+  margin-bottom: 15px;
+}
