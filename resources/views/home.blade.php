@@ -10,6 +10,7 @@ Dashboard
 
 @section('content')
     
+
 Welcome to this beautiful admin panel.
 
 
