@@ -84,6 +84,11 @@
   outline: 0px;
 }
 
+.margin-left-right-0 {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
 .bread-static {
   position: relative;
   top: 90px;
@@ -152,6 +157,14 @@
 .center-line hr.orange {
   border-top: 5px solid #F4A400;
 }
+.center-line hr.gray {
+  border-top: 5px solid rgba(74, 74, 74, 0.1607843137);
+}
+.center-line hr.line-hr {
+  top: -2px;
+  left: -60px;
+  width: 105%;
+}
 
 .margin-left-15 {
   margin-left: 15px;
@@ -160,6 +173,9 @@
 .card.no-bg {
   background: transparent;
   box-shadow: none;
+}
+.card.pad-bottom-5 {
+  padding-bottom: 5px;
 }
 .card .wrapper-search {
   left: 14px;
@@ -185,6 +201,44 @@
 }
 .card .wrapper-search .search-panel ul.dropdown-menu li:last-child {
   border-bottom: 0;
+}
+.card .border-line {
+  border: 1px solid #ccc;
+}
+.card .title-expedition h4 {
+  padding: 31px;
+}
+.card .content-size h4 {
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.card .content-size h4.margin-min-17 {
+  margin-left: -17px;
+}
+.card .content-size h4.margin-min-7 {
+  margin-left: -7px;
+}
+.card .content-size h4.margin-min-4 {
+  margin-left: -4px;
+}
+.card .content-size h2.center {
+  position: absolute;
+  top: 40%;
+  left: 9%;
+}
+.card .content-size span {
+  font-size: 16px;
+  margin-left: 15px;
+  padding-top: 10px;
+  display: block;
+}
+.card .content-size h3.title-content {
+  position: relative;
+  top: 30%;
+  left: 30%;
+}
+.card .content-size h3.title-content.left-10 {
+  left: 10%;
 }
 .card .box-alert {
   padding-bottom: 10px;
@@ -215,6 +269,12 @@
 }
 .card .bg-green {
   background-color: #A7D585;
+}
+.card .text-gray {
+  color: rgba(74, 74, 74, 0.1607843137);
+}
+.card .bg-gray {
+  background-color: rgba(74, 74, 74, 0.1607843137);
 }
 .card .line-box-alert {
   height: 8px;
@@ -254,6 +314,11 @@
 }
 .card .card-body {
   font-family: gdcustomfont, avenir, "Helvetica Neue", arial, sans-serif;
+}
+.card .card-body .text-truncate .text-detail {
+  font-size: 16px;
+  position: relative;
+  top: 5px;
 }
 .card .card-body .text-truncate a i {
   position: relative;
